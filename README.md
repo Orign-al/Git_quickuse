@@ -7,9 +7,9 @@ git init
 ```
 
 ##连接到远程仓库
-···
+```
 git remote add <remote-name> <remote-url>
-···
+```
 
 
 ## 2. 添加文件到暂存区
