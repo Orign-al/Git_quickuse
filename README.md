@@ -7,10 +7,26 @@ git init
 ```
 
 ##连接到远程仓库
+
 ```
 git remote add <remote-name> <remote-url>
 ```
+###如果连接不上
 
+```
+unable to access 'https://github.com/Orign-al/STM32H743VIT6_CODE.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
+
+```
+
+```
+https://blog.csdn.net/qq_43546721/article/details/139506583
+```
+
+##更改由于main和master问题导致的上传失败
+
+```
+https://blog.csdn.net/mo_sss/article/details/137927136
+```
 
 ## 2. 添加文件到暂存区
 
